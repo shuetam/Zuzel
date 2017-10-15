@@ -1,0 +1,80 @@
+
+  body 
+  {
+    background-color: #013B51;
+  }
+
+
+  .out
+  {
+     border: 3px solid #fff;
+     min-width: 1000px;
+     min-height: 450px;
+     max-height: 450px;
+     max-width: 1000px;
+     position: absolute;;
+     background-color: black;
+     border-radius: 400px;
+     margin-left: auto;
+     margin-right: auto;
+     top: 50px;
+    
+  }
+
+  
+  
+  .inner
+  {
+    border: 4px solid #fff;
+    min-width: 70%;
+    min-height: 42%;
+    border-radius: 400px;
+    background-color: #013B51;
+    position: absolute;
+    top: 120px;
+    left: 146px;
+  }
+
+
+
+.motor1
+{
+  min-width:  5px;
+  min-height: 5px;
+  max-height: 5px;
+  max-width:  5px;
+  position: absolute;
+  background-color: white;
+  top: 50px;
+  left: 700px;
+  display: block;
+  
+
+}
+
+#background
+{
+  position: absolute;
+  z-index: 10;
+  min-width: 1000px;
+  min-height: 450px;
+  max-height: 450px;
+  max-width: 1000px;
+  top: 50px;
+}
+
+.dos
+{
+  padding: 20px;
+  font-size: 20px;
+  text-align: top;
+  margin: auto;
+  letter-spacing: -1px;
+  margin: 20px;
+  box-shadow: 10px 10px 0px 4px #000000;
+}
+ 
+  
+  
+
+ 
