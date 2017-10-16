@@ -37,20 +37,34 @@
 
 
 
+.motor1test
+{
+  min-width:  15px;
+  min-height: 15px;
+  max-height: 15px;
+  max-width:  15px;
+  position: absolute;
+border: solid white 2px;
+  top: 50px;
+  left: 700px;
+ 
+}
+
+
 .motor1
 {
-  min-width:  5px;
-  min-height: 5px;
-  max-height: 5px;
-  max-width:  5px;
+  min-width:  10px;
+  min-height: 10px;
+  max-height: 10px;
+  max-width:  10px;
   position: absolute;
   background-color: white;
   top: 50px;
   left: 700px;
   display: block;
-  
-
+  border-radius: 7px;
 }
+
 
 #background
 {
